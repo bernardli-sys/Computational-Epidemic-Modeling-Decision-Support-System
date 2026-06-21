@@ -127,17 +127,33 @@ Geographic spread simulation
 
 ![Streamlit Dashboard](streamlit_dashboard.png)
 
+Key Metrics
+Policy Insights
+Custom scenario allows exploration of alternative intervention strategies.
+
+Peak Infection
+
+30.4%
+
+Peak Day
+
+26
+
+Basic Reproduction Number (R₀)
+
+3.00
+
 ## SIR Simulation
 
-![SIR Simulation](sir_simulation.png)
+![sir simulation](sir_simulation.png)
 
 ## Beta Sensitivity Analysis
 
-![Beta Sensitivity Analysis](beta_sensitivity_analysis.png)
+![beta sensitivity analysis](beta_sensitivity_analysis.png)
 
 ## Policy Simulation
 
-![Policy Simulation](policy_simulation.png)
+![policy simulation](policy_simulation.png)
 
 Author
 
