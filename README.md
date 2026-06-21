@@ -128,7 +128,9 @@ Geographic spread simulation
 ![Streamlit Dashboard](streamlit_dashboard.png)
 
 Key Metrics
+
 Policy Insights
+
 Custom scenario allows exploration of alternative intervention strategies.
 
 Peak Infection
